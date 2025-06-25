@@ -5,7 +5,8 @@
 El sistema es un catálogo de productos para una tienda virtual, desarrollado en Java y operado completamente por consola. Permite al usuario agregar, listar, clonar, adaptar productos externos, actualizar y eliminar productos, gestionando toda la información de manera sencilla e interactiva.
 
 Se busca facilitar la administración de productos en una tienda virtual, permitiendo un manejo eficiente y flexible del catálogo, incluyendo la integración de productos de fuentes externas y la creación de variantes de productos existentes.
-
+---
+![image](https://github.com/user-attachments/assets/0a292bbd-70b2-42e7-9313-7e4d7daf3ba9)
 ---
 
 ## 🧠 Patrones Implementados
