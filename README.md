@@ -56,3 +56,8 @@ java App
 ```bash
 del /s *.class
 ```
+---
+---
+
+Se Reconoce el uso de IA para el desarrollo de secciones especificas del proyecto, como ayuda para la solucion de errores, la creacion SOLO del menu con opciones (la Funcionalidad no) y ayuda con la creacion de el .md (no redaccion).
+:3
